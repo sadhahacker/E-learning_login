@@ -34,7 +34,7 @@ This project contains a login page implemented in HTML. Follow the steps below t
    Open your web browser and navigate to the following URL:
 
    ```url
-   file:///path/to/your/project/index.html
+   file:///path/to/project/index.html
 
 
 ### Live Website link
